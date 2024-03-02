@@ -17,18 +17,18 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 - **url.txt**: File yang berisi tautan untuk menuju website ini di deploy.
 ## Setup Environment
 
-    ```shell
+    
     conda create --name main-ds python=3.9
     conda activate main-ds
     pip install streamlit
     pip install -r requirements.txt
-    ```
+    
 
 ## Run Streamlit App
 
-    ```shell
+    
     streamlit run dashboard.py
-    ```
+    
 ## Run Streamlit APP via Browser
     Link : https://ilhamdioputra-spin-voyage.streamlit.app
 
